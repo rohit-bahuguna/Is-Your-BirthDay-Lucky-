@@ -60,6 +60,7 @@ function App() {
 				: ''}
 			<button onClick={isLucky}>Check Number</button>
 			<footer>
+				<p>@ | 2022 | Rohit Bahuguna</p>
 				<div className="horizontal" />
 				<a href="https://twitter.com/rohitba96862397" target="_blank">
 					<i className="footer_icon fab fa-2x fa-twitter" />
